@@ -1,8 +1,9 @@
 import React from 'react'
+import Videos from '../providers/videos'
 
 const Home = () => {
   return (
-    <div>home</div>
+    <Videos/>
   )
 }
 
